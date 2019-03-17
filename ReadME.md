@@ -4,5 +4,12 @@ This repo constitutes the submission of the team **HACKINATOR** for the problem 
 
 Under the category : Smart Surveillance
 
-**Team Members:
-@devpool007
+**Team Members:**
+
+https://github.com/Sumerio
+
+https://github.com/devpool007 
+
+https://github.com/kartikay101
+
+https://github.com/tammy3107
